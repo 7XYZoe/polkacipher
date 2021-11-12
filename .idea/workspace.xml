@@ -2,122 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cc2ba6e-abf1-47fb-9faf-3c106b383203" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/polkacipher.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/blocks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/plugins.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/theme-styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Bold_0.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Bold_0.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Bold_0.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Bold_0﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Light.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Light.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Light﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Comfortaa-Regular﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-brands-400﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-regular-400﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/webfonts/fa-solid-900﹖.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/arrow-left-w-50.png.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-convert.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-help.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bnft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/body-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/cipher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/client-9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/community.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/countdown-bg1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/data_matching.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/data_protection.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/dotted-map.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/edata.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/graph.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo-primary.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/main.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/multichain.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/nft-privacy.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/polkadot-lapi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-60coin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-absnews.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-china.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-coingape.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-mkt-watch.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-news-btc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/press-yahoo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/sprite-skin-nice.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/super-stable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-akhil.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-apoorv.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-avinash.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-bella.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-laurence.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-liam.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-nikhil.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-rohit.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-sainesh.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-shane.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team-tim.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-adp-color.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-adp.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-data-color.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-data.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-mining-color.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-mining.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-nft-color.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/token-nft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/Headroom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/ajax-pagination.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/crum-mega-menu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/jquery-circle-progress.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/jquery.magnific-popup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/leaflet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/material.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/perfect-scrollbar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/segment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/select2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/smooth-scroll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/js-plugins/swiper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/method-assign.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/svg-loader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -128,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
@@ -160,6 +46,16 @@
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -235,6 +131,7 @@
         <option value="$PROJECT_DIR$/css/theme-styles.css" />
         <option value="$PROJECT_DIR$/css/blocks.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -273,22 +170,6 @@
             <path>
               <item name="polkacipher" type="b2602c69:ProjectViewProjectNode" />
               <item name="polkacipher" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="polkacipher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polkacipher" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="polkacipher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polkacipher" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="polkacipher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polkacipher" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js-plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -332,12 +213,12 @@
       <workItem from="1636394751344" duration="16989000" />
       <workItem from="1636573816872" duration="1421000" />
       <workItem from="1636620100886" duration="20605000" />
-      <workItem from="1636712068852" duration="21020000" />
+      <workItem from="1636712068852" duration="21964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60035000" />
+    <option name="totallyTimeSpent" value="60979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="73" width="1283" height="787" extended-state="0" />
@@ -351,7 +232,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34273624" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -688,6 +569,14 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
